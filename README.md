@@ -4,7 +4,7 @@ This is a repository for a little tool I made called clickmacro - a macro librar
 These macros were made with Minecraft gameplay in mind.
 
 
-The macros included in this program:
+The macros currently included in this program:
 
 * A macro to spam the ***left mouse button*** whenever it is pressed with the ***Alt*** key held down
 * A macro to spam the ***right mouse button*** whenever it is pressed with the ***Alt*** key held down
